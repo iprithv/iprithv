@@ -14,7 +14,21 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prithvi-S-4)
 ![](https://visitor-badge.glitch.me/badge?page_id=iprithv.iprithv)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### try in your Terminal
+
+```bash
+$ npx iprithv
+```
+
+<p align="center">
+  <a href="https://github.com/iprithv/shellink">
+    <img src="https://img.shields.io/badge/shellink-my_intro_from_terminal-111?style=for-the-badge&logo=gnubash&logoColor=F0DB4F" alt="shellink CLI"/>
+  </a>
+</p>
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me....
 
 **10+ years** building production systems end-to-end. search, agentic AI, data platforms, and the react dashboards that tie it all together.
 
