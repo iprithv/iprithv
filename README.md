@@ -1,13 +1,12 @@
 
 <h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35" align="absmiddle" />
-  Hey, I'm Prithvi S!
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45" align="absmiddle" />
+  Hey, I'm Prithvi S!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45" align="absmiddle" />
 </h2>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Staff Software Engineer at <a href="https://www.cloudera.com/">Cloudera</a>&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="absmiddle"></em></p>
+<p><em>Staff Software Engineer at Cloudera&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="absmiddle"></em></p>
 
 <p><em>OpenSource enthusiast · search · AI · data · backend · frontend · full stack</em></p>
 
