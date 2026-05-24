@@ -1,10 +1,13 @@
-<p style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-  <b style="font-size: 28px; line-height: 1;">Hey, I'm Prithvi S!</b>
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" style="margin-left: -10px; transform: translateY(-4px);" />
-</p>
+
+<h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35" align="absmiddle" />
+  Hey, I'm Prithvi S!
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45" align="absmiddle" />
+</h2>
+
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Staff Software Engineer at <a href="https://www.cloudera.com/">Cloudera</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+
+<p><em>Staff Software Engineer at <a href="https://www.cloudera.com/">Cloudera</a>&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="absmiddle"></em></p>
 
 <p><em>OpenSource enthusiast · search · AI · data · backend · frontend · full stack</em></p>
 
@@ -28,12 +31,15 @@
 $ npx iprithv
 ```
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me....
+<h3>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35" align="absmiddle" />
+  A little more about me....
+</h3>
 
 **10+ years** building production systems end-to-end. search, agentic AI, data platforms, and the react dashboards that tie it all together.
 
-<h3 style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl2bTkyajVoYnZ6a296Zjl6YWM5amNybjJ1c2p0cmhiOXV2NGFicSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" />
+<h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl2bTkyajVoYnZ6a296Zjl6YWM5amNybjJ1c2p0cmhiOXV2NGFicSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" align="absmiddle" />
   OpenSource
 </h3>
 
@@ -43,7 +49,7 @@ Contributor of [Lucene](https://github.com/apache/lucene) and [Search Relevance]
 
 [Pull requests & contributions →](https://github.com/pulls?q=is%3Apr+author%3Aiprithv+archived%3Afalse+is%3Aclosed)
 
-<p style="display: flex; align-items: center; gap: 15px;">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  <span><em><b>Happy to connect with curious humans</b> - let's talk about search, LLMs, and the messy, fun parts of shipping AI & data systems in production. 😊</em></span>
+<p>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45" align="absmiddle" />
+  &nbsp;<em><b>Happy to connect with curious humans</b> - let's talk about search, LLMs, and the messy, fun parts of shipping AI & data systems in production. 😊</em>
 </p>
