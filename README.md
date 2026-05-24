@@ -1,5 +1,9 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Prithvi S! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
+  <b style="font-size: 28px; line-height: 1;">Hey, I'm Prithvi S!</b>
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" style="margin-left: -10px; transform: translateY(-4px);" />
+</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Staff Software Engineer at <a href="https://www.cloudera.com/">Cloudera</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p><em>OpenSource enthusiast · search · AI · data · backend · frontend · full stack</em></p>
@@ -14,73 +18,32 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prithvi-S-4)
 ![](https://visitor-badge.glitch.me/badge?page_id=iprithv.iprithv)
 
-### try in your Terminal
+<p>
+  <a href="https://github.com/iprithv/shellink">
+    <img src="https://img.shields.io/badge/shellink-connect%20with%20me%20from%20your%20terminal-111?style=for-the-badge&logo=gnubash&logoColor=F0DB4F" alt="shellink - connect with me from your terminal"/>
+  </a>
+</p>
 
 ```bash
 $ npx iprithv
 ```
 
-<p align="center">
-  <a href="https://github.com/iprithv/shellink">
-    <img src="https://img.shields.io/badge/shellink-my_intro_from_terminal-111?style=for-the-badge&logo=gnubash&logoColor=F0DB4F" alt="shellink CLI"/>
-  </a>
-</p>
-
----
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me....
 
 **10+ years** building production systems end-to-end. search, agentic AI, data platforms, and the react dashboards that tie it all together.
 
----
+<h3 style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl2bTkyajVoYnZ6a296Zjl6YWM5amNybjJ1c2p0cmhiOXV2NGFicSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" />
+  OpenSource
+</h3>
 
-### 🤝 Open Source
+Maintainer of [Dashboard Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 
-[Lucene](https://github.com/apache/lucene) · search relevance in [OpenSearch](https://github.com/opensearch-project/OpenSearch) · maintainer of [Dashboards Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance)
+Contributor of [Lucene](https://github.com/apache/lucene) and [Search Relevance](https://github.com/opensearch-project/search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 
 [Pull requests & contributions →](https://github.com/pulls?q=is%3Apr+author%3Aiprithv+archived%3Afalse+is%3Aclosed)
 
----
-
-### 📜 Patents & Publications
-
-<details>
-<summary><b>🇬🇧 UK Patent Office</b></summary>
-
-<br>
-
-**[Data Processing Device for Code Compilation Feedback](https://www.registered-design.service.gov.uk/find/)** · *Design 6471428*  
-> *Abstract - Real-time compilation feedback for developers, bridging code execution and actionable diagnostics.*
-
-**[Portable Computer for On-Device Model Training](https://www.registered-design.service.gov.uk/find/)** · *Design 6464219*  
-> *Abstract - Portable compute form-factor for local ML training without cloud dependency.*
-
-</details>
-
-<details>
-<summary><b>🔬 IEEE Xplore</b> · <em>Digital Library</em> </summary>
-
-<br>
-
-**[Consumer Sentiment Analysis Using NLP](https://ieeexplore.ieee.org/document/11323900)**  
-> *Real-time brand monitoring across social media via NLP sentiment pipelines.*
-
-**[Machine Learning for Predictive Customer Retention](https://ieeexplore.ieee.org/document/11323864)**  
-> *Predictive models to identify at-risk customers in competitive markets.*
-
-**[Personalized Marketing at Scale](https://ieeexplore.ieee.org/document/11323739)**  
-> *AI-driven content recommendation for real-time personalized marketing.*
-
-</details>
-
----
-
-### 🏅 Certifications
-
-[![GCP ML Engineer](https://img.shields.io/badge/Google%20Cloud-ML%20Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/9c9acc51-6028-4847-b538-ce752caa36e4/public_url)
-[![GCP Cloud Architect](https://img.shields.io/badge/Google%20Cloud-Cloud%20Architect-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/d73095bd-214e-44be-9e66-ccb43c0b6315/public_url)
-[![GCP Data Engineer](https://img.shields.io/badge/Google%20Cloud-Data%20Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/43585974-c83f-4f28-8ac5-da94ab0f0cd2/public_url)
-[![Elastic Observability](https://img.shields.io/badge/Elastic-Observability%20Engineer-005571?style=flat-square&logo=elastic&logoColor=white)](https://certified.elastic.co/ebf4ad57-75b3-4ffe-8b3a-b743f34ec6f1)
-[![Elastic Engineer](https://img.shields.io/badge/Elastic-Certified%20Engineer-005571?style=flat-square&logo=elastic&logoColor=white)](https://certified.elastic.co/b77692a6-e117-4efd-bf82-9e2a28418864)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy to connect with curious humans</b> - let's talk about search, LLMs, and the messy, fun parts of shipping AI & data systems in production. 😊</em>
+<p style="display: flex; align-items: center; gap: 15px;">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <span><em><b>Happy to connect with curious humans</b> - let's talk about search, LLMs, and the messy, fun parts of shipping AI & data systems in production. 😊</em></span>
+</p>
