@@ -40,13 +40,13 @@ $ npx iprithv
   OpenSource
 </h3>
 
-Maintainer of [Search Relevance](https://github.com/opensearch-project/search-relevance) and [Dashboard Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch)
+Maintainer of [Dashboard Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 
-Contributor of [Lucene](https://github.com/apache/lucene)
+Contributor of [Search Relevance](https://github.com/opensearch-project/search-relevance) and [Lucene](https://github.com/apache/lucene)
 
 [Pull requests & contributions →](https://github.com/pulls/search?q=is%3Apr+author%3Aiprithv)
 
 <p>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45" align="absmiddle" />
-  &nbsp;<em><b>Happy to connect with curious humans.</b> Let's talk about search, LLMs, and the messy, fun parts of shipping AI & data systems in production. 😊</em>
+  &nbsp;<em>Happy to connect with curious humans. Let's talk about search, LLMs, and the messy, fun parts of shipping AI & data systems in production. 😊</em>
 </p>
