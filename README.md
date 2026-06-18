@@ -13,7 +13,6 @@
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iprithv-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iprithv/)
-[![GitHub](https://img.shields.io/badge/GitHub-iprithv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iprithv)
 [![Dev.to](https://img.shields.io/badge/Dev.to-iprithv-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/iprithv)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=M2dIf5oAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prithvi-S-4)
