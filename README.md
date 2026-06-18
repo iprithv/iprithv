@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iprithv-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iprithv/)
 [![GitHub](https://img.shields.io/badge/GitHub-iprithv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iprithv)
 [![Dev.to](https://img.shields.io/badge/Dev.to-iprithv-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/iprithv)
-[![Gmail](https://img.shields.io/badge/Gmail-prithvisivasankar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prithvisivasankar@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=M2dIf5oAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prithvi-S-4)
 ![](https://visitor-badge.glitch.me/badge?page_id=iprithv.iprithv)
@@ -35,14 +34,14 @@ $ npx iprithv
   A little more about me....
 </h3>
 
-**10+ years** building production systems end-to-end. search, agentic AI, data platforms, and the react dashboards that tie it all together.
+**9+ years** building production systems end-to-end. search, agentic AI, data platforms, and the react dashboards that tie it all together.
 
 <h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl2bTkyajVoYnZ6a296Zjl6YWM5amNybjJ1c2p0cmhiOXV2NGFicSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" align="absmiddle" />
   OpenSource
 </h3>
 
-Maintainer of Search Relevance Workbench ([Search Relevance](https://github.com/opensearch-project/search-relevance) and [Dashboard Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance)) in [OpenSearch](https://github.com/opensearch-project/OpenSearch)
+Maintainer of [Search Relevance](https://github.com/opensearch-project/search-relevance) and [Dashboard Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 
 Contributor of [Lucene](https://github.com/apache/lucene)
 
@@ -50,5 +49,5 @@ Contributor of [Lucene](https://github.com/apache/lucene)
 
 <p>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45" align="absmiddle" />
-  &nbsp;<em><b>Happy to connect with curious humans</b> - let's talk about search, LLMs, and the messy, fun parts of shipping AI & data systems in production. 😊</em>
+  &nbsp;<em><b>Happy to connect with curious humans.</b> Let's talk about search, LLMs, and the messy, fun parts of shipping AI & data systems in production. 😊</em>
 </p>
