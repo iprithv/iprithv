@@ -42,7 +42,7 @@ $ npx iprithv
 
 Maintainer of [Dashboard Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 
-Contributor of [Search Relevance](https://github.com/opensearch-project/search-relevance) and [Lucene](https://github.com/apache/lucene)
+Contributor of [Search Relevance](https://github.com/opensearch-project/search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch) and [Lucene](https://github.com/apache/lucene)
 
 [Pull requests & contributions →](https://github.com/pulls/search?q=is%3Apr+author%3Aiprithv)
 
