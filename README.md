@@ -40,7 +40,7 @@ $ npx iprithv
   OpenSource
 </h3>
 
-Maintainer of Search Relevance Workbench ([Search Relevance](https://github.com/opensearch-project/search-relevance) and [Dashboard Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch))
+Maintainer of Search Relevance Workbench ([Search Relevance](https://github.com/opensearch-project/search-relevance) and [Dashboard Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance)) in [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 
 Contributor of [OpenSearch](https://github.com/opensearch-project/OpenSearch), [Lucene](https://github.com/apache/lucene), [Polaris](https://github.com/apache/polaris)
 
