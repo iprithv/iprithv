@@ -8,7 +8,7 @@
 
 <p><em>Staff Software Engineer at Cloudera&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="absmiddle"></em></p>
 
-<p><em>OpenSource enthusiast · search · AI · data · backend · frontend · full stack</em></p>
+<p><em>OpenSource enthusiast · search · AI · data · security · backend · frontend · full stack</em></p>
 
 ### 📫 Connect
 
@@ -33,20 +33,20 @@ $ npx iprithv
   A little more about me....
 </h3>
 
-**9+ years** building production systems end-to-end. search, agentic AI, data platforms, and the react dashboards that tie it all together.
+**9+ years** building production systems end-to-end. search, agentic AI, security, data platforms and the react dashboards that tie it all together.
 
 <h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl2bTkyajVoYnZ6a296Zjl6YWM5amNybjJ1c2p0cmhiOXV2NGFicSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="35" align="absmiddle" />
   OpenSource
 </h3>
 
-Maintainer of [Dashboard Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch)
+Maintainer of Search Relevance Workbench [Search Relevance](https://github.com/opensearch-project/search-relevance) and [Dashboard Search Relevance](https://github.com/opensearch-project/dashboards-search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 
-Contributor of [Search Relevance](https://github.com/opensearch-project/search-relevance) in [OpenSearch](https://github.com/opensearch-project/OpenSearch) and [Lucene](https://github.com/apache/lucene)
+Contributor of [OpenSearch](https://github.com/opensearch-project/OpenSearch), [Lucene](https://github.com/apache/lucene), [Polaris](https://github.com/apache/polaris)
 
 [Pull requests & contributions →](https://github.com/pulls/search?q=is%3Apr+author%3Aiprithv)
 
 <p>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45" align="absmiddle" />
-  &nbsp;<em>Happy to connect with curious humans. Let's talk about search, LLMs, and the messy, fun parts of shipping AI & data systems in production. 😊</em>
+  &nbsp;<em>Happy to connect with curious humans. Let's talk about search, LLMs, security and the messy, fun parts of shipping AI & data systems in production. 😊</em>
 </p>
